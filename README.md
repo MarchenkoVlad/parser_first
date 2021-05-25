@@ -6,9 +6,10 @@ This is an example of a simple parser application written for the Avito.ru websi
 
 ###install and run
 ___
-
+```
 virtualenv --python=python3 env
 source env/bin/activate
 git clone https://github.com/MarchenkoVlad/parser_first
 cd parser_first
 pip3 install -r requirements.txt
+```
